@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  FLAGProj
+
+  Created by formando on 13/03/2018.
+  Copyright © 2018 Pedro Brito. All rights reserved.
+*/
+
+
+"MoviesList.Header.RefreshDate.Text" = "Updated at:";
+"Language.code" = "en-US";
+"Language" = "en";
+"LoadMore.Footer.Text" = "Load More";
+"NoResults.Search.Text" = "No Results";
+"No.Overview" = "Overview is not available";
+"footerEndMovies" = "There are no more saved Movies";
+"footerEndTvShows" = "There are no more saved TV Shows";
+"youAreHere" = "You are here";
+"lastLocation" = "Last time you used the app you were here";
